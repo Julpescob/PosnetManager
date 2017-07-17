@@ -1,0 +1,8 @@
+C:\DESARROLLO\Posnet Admin\Posnet Admin\bin\Debug\Posnet Admin.exe
+C:\DESARROLLO\Posnet Admin\Posnet Admin\bin\Debug\Posnet Admin.pdb
+C:\DESARROLLO\Posnet Admin\Posnet Admin\obj\x86\Debug\Posnet_Admin.Form1.resources
+C:\DESARROLLO\Posnet Admin\Posnet Admin\obj\x86\Debug\Posnet_Admin.Properties.Resources.resources
+C:\DESARROLLO\Posnet Admin\Posnet Admin\obj\x86\Debug\Posnet Admin.csproj.GenerateResource.Cache
+C:\DESARROLLO\Posnet Admin\Posnet Admin\obj\x86\Debug\Posnet Admin.exe
+C:\DESARROLLO\Posnet Admin\Posnet Admin\obj\x86\Debug\Posnet Admin.pdb
+C:\DESARROLLO\Posnet Admin\Posnet Admin\obj\x86\Debug\Posnet Admin.csprojResolveAssemblyReference.cache
